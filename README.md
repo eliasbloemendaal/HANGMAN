@@ -1,3 +1,6 @@
+# 2 GITHUB FILES. Deze: HANGMAN & HANGTHEEVILMAN BELANGRIJK
+
+
 # HANGMAN
 ![proposal sketch](https://cloud.githubusercontent.com/assets/15455490/11338312/a4c94a8a-91f3-11e5-9030-bb0c25531bc7.jpg)
 
